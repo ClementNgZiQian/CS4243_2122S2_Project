@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 # Dataset
-dataset/
+dataset-raw/
 scraper1/
 scraper2/
-compiled/
