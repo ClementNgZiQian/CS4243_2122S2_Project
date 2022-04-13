@@ -133,3 +133,5 @@ dataset-raw/
 scraper1/
 scraper2/
 backup/
+.gitattributes
+dataset/
