@@ -1,0 +1,7 @@
+selenium
+bs4
+torch
+numpy
+seaborn
+matplotlib
+torchvision
